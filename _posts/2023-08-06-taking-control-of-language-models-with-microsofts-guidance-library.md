@@ -194,7 +194,5 @@ Microsoft's Guidance library is a powerful tool that offers you effective contro
 
 ## References
 
-- [Guidance Library Documentation](https://docs.microsoft.com/guidance/)
-- [Microsoft AI Blog](https://www.microsoft.com/ai/blog)
-- [OpenAI GPT-3](https://openai.com/blog/gpt-3-apps/)
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- [Guidance Library Documentation](https://github.com/microsoft/guidance)
+
